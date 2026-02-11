@@ -51,7 +51,7 @@ Advanced e-commerce REST API with complete shopping functionality, payment proce
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/CerenTurker/E-Commerce-API.git
 cd ecommerce-api
 ```
 
@@ -457,7 +457,7 @@ MIT
 
 ## 👤 Author
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+Ceren Demir
 
 ## 🙏 Acknowledgments
 
